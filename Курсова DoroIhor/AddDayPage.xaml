@@ -1,0 +1,27 @@
+﻿<Window x:Class="DoroIhor.AddDayPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DoroIhor"
+        mc:Ignorable="d"
+        Title="Добавить упражнения в день" Height="350" Width="400" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="lstBox" ItemsSource="{Binding Excercises}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1">
+            <Button Click="Add_Ex" Content="Добавить упражнение" Margin="0, 10"/>
+            <Button Click="Remove_Ex" Content="Удалить упражнение" Margin="0, 10"/>
+            <Button Click="Button_Click" Content="Ok" IsDefault="True"/>
+        </StackPanel>
+    </Grid>
+</Window>

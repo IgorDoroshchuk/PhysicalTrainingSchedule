@@ -1,0 +1,100 @@
+C:\Users\User\Desktop\DoroIhor\bin\Debug\DoroIhor.exe.config
+C:\Users\User\Desktop\DoroIhor\bin\Debug\DoroIhor.exe
+C:\Users\User\Desktop\DoroIhor\bin\Debug\DoroIhor.pdb
+C:\Users\User\Desktop\DoroIhor\obj\Debug\Physical Training Schedule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DoroIhor\obj\Debug\AddDayPage.g.cs
+C:\Users\User\Desktop\DoroIhor\obj\Debug\AddExercisePage.g.cs
+C:\Users\User\Desktop\DoroIhor\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\DoroIhor\obj\Debug\UserControlPage.g.cs
+C:\Users\User\Desktop\DoroIhor\obj\Debug\UserDaysPage.g.cs
+C:\Users\User\Desktop\DoroIhor\obj\Debug\ViewDayAndExercises.g.cs
+C:\Users\User\Desktop\DoroIhor\obj\Debug\App.g.cs
+C:\Users\User\Desktop\DoroIhor\obj\Debug\DoroIhor_MarkupCompile.cache
+C:\Users\User\Desktop\DoroIhor\obj\Debug\DoroIhor_MarkupCompile.lref
+C:\Users\User\Desktop\DoroIhor\obj\Debug\AddDayPage.baml
+C:\Users\User\Desktop\DoroIhor\obj\Debug\AddExercisePage.baml
+C:\Users\User\Desktop\DoroIhor\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\DoroIhor\obj\Debug\UserControlPage.baml
+C:\Users\User\Desktop\DoroIhor\obj\Debug\UserDaysPage.baml
+C:\Users\User\Desktop\DoroIhor\obj\Debug\ViewDayAndExercises.baml
+C:\Users\User\Desktop\DoroIhor\obj\Debug\DoroIhor.g.resources
+C:\Users\User\Desktop\DoroIhor\obj\Debug\DoroIhor.Properties.Resources.resources
+C:\Users\User\Desktop\DoroIhor\obj\Debug\Physical Training Schedule.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DoroIhor\obj\Debug\Physical Training Schedule.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DoroIhor\obj\Debug\DoroIhor.exe
+C:\Users\User\Desktop\DoroIhor\obj\Debug\DoroIhor.pdb
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\bin\Debug\DoroIhor.exe.config
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\bin\Debug\DoroIhor.exe
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\bin\Debug\DoroIhor.pdb
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\Physical Training Schedule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\AddDayPage.g.cs
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\AddExercisePage.g.cs
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\UserControlPage.g.cs
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\UserDaysPage.g.cs
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\ViewDayAndExercises.g.cs
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\App.g.cs
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\DoroIhor_MarkupCompile.cache
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\DoroIhor_MarkupCompile.lref
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\AddDayPage.baml
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\AddExercisePage.baml
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\UserControlPage.baml
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\UserDaysPage.baml
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\ViewDayAndExercises.baml
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\DoroIhor.g.resources
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\DoroIhor.Properties.Resources.resources
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\Physical Training Schedule.csproj.GenerateResource.cache
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\Physical Training Schedule.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\DoroIhor.exe
+C:\Users\User\Desktop\111Курсова робота 19.04 DoroIhor\obj\Debug\DoroIhor.pdb
+C:\Users\User\Desktop\19.04 DoroIhor\bin\Debug\DoroIhor.exe.config
+C:\Users\User\Desktop\19.04 DoroIhor\bin\Debug\DoroIhor.exe
+C:\Users\User\Desktop\19.04 DoroIhor\bin\Debug\DoroIhor.pdb
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\Physical Training Schedule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\AddDayPage.g.cs
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\AddExercisePage.g.cs
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\UserControlPage.g.cs
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\UserDaysPage.g.cs
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\ViewDayAndExercises.g.cs
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\App.g.cs
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\DoroIhor_MarkupCompile.cache
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\DoroIhor_MarkupCompile.lref
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\AddDayPage.baml
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\AddExercisePage.baml
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\UserControlPage.baml
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\UserDaysPage.baml
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\ViewDayAndExercises.baml
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\DoroIhor.g.resources
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\DoroIhor.Properties.Resources.resources
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\Physical Training Schedule.csproj.GenerateResource.cache
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\Physical Training Schedule.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\DoroIhor.exe
+C:\Users\User\Desktop\19.04 DoroIhor\obj\Debug\DoroIhor.pdb
+C:\Users\User\Desktop\Курсова DoroIhor\bin\Debug\DoroIhor.exe.config
+C:\Users\User\Desktop\Курсова DoroIhor\bin\Debug\DoroIhor.exe
+C:\Users\User\Desktop\Курсова DoroIhor\bin\Debug\DoroIhor.pdb
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\Physical Training Schedule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\AddDayPage.g.cs
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\AddExercisePage.g.cs
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\UserControlPage.g.cs
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\UserDaysPage.g.cs
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\ViewDayAndExercises.g.cs
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\DoroIhor_MarkupCompile.cache
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\DoroIhor_MarkupCompile.lref
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\AddDayPage.baml
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\AddExercisePage.baml
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\UserControlPage.baml
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\UserDaysPage.baml
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\ViewDayAndExercises.baml
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\DoroIhor.g.resources
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\DoroIhor.Properties.Resources.resources
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\Physical Training Schedule.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\Physical Training Schedule.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\DoroIhor.exe
+C:\Users\User\Desktop\Курсова DoroIhor\obj\Debug\DoroIhor.pdb

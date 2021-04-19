@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<User Name="Igorok" Weight="72" Height="184">
+  <Day Date="19.04.2021 14:05:02">
+    <Exercise Name="жим" Count="3" Repeats="10" Weight="70" Time="" />
+    <Exercise Name="Підйом штанги на біцепс " Count="4" Repeats="10" Weight="30" Time="" />
+    <Exercise Name="Станова тяга" Count="2" Repeats="4" Weight="100" Time="20:04" />
+  </Day>
+</User>
